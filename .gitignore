@@ -1,0 +1,8 @@
+artifacts/
+data/
+*.h5
+*.keras
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
